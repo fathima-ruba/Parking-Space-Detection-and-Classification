@@ -1,4 +1,4 @@
-# Parking-Space-Detection-and-Classification
+# Smart Parking Management System
 
 ## 1. Introduction
 The increasing number of vehicles has led to a shortage of parking spaces in urban areas. Automated parking space detection and classification systems can help in efficiently managing available parking spaces. This project aims to develop a computer vision-based system to detect parking spaces and classify them as 'Free' or 'Occupied'.
