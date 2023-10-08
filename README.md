@@ -18,7 +18,7 @@ The implementation involves the following steps:
 5. Application: Use the trained model to classify parking spaces in new images.
 
 ## 6. Results
-The SVM model achieved an accuracy of approximately 99.29% on the test set. The model was then successfully applied to new images for parking space classification.
+The SVM model achieved an accuracy of approximately 97.47% on the test set. The model was then successfully applied to new images for parking space classification.
 
 ## 7. Discussion
 The high accuracy of the model suggests that it is capable of classifying parking spaces with good reliability. However, the model is based on a simple intensity threshold, and more advanced techniques could be explored for better accuracy.
